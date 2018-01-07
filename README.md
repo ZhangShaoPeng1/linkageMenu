@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+这个Demo下载到本地之后用npm install安装了依赖之后就可以跑了，如果vue项目中全局安装了element-ui就能直接用那个linkage.vue组件
+
 ## Build Setup
 
 ``` bash
